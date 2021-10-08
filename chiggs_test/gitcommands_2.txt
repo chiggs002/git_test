@@ -1,0 +1,25 @@
+git  —version
+
+https://git-scm.com/download/mac
+
+Create a new repository on GitHub
+
+Git config —global user.mail “gforceup@gmail.com”
+Git config —global user.name “chiggs2000”
+
+
+cd Desktop
+
+cd git
+
+git init
+Initialized empty Git repository in /Users/colinhiggs/Desktop/git/.git/
+
+cd .. (go up 1 level)
+defaults write com.apple.finder AppleShowAllFiles YES (shows invisible files)
+
+git status
+
+On branch master
+
+No commits yet
